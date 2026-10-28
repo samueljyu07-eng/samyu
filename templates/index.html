@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ profile.name }}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <main>
+    <h2>{{ profile.name }}</h2>
+    <p>{{ profile.tagline }}</p>
+    <p>{{ profile.bio }}</p>
+
+    <h3>In my lifetime I want to</h3>
+    <ul>
+      {% for goal in goals %}
+        <li>{{ goal }}</li>
+      {% endfor %}
+    </ul>
+
+    <hr>
+    <nav>
+      {% for link in links %}
+        <a href="{{ link.url }}">{{ link.label }}</a>
+      {% endfor %}
+    </nav>
+  </main>
+</body>
+</html>
