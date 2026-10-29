@@ -1,3 +1,32 @@
-body { font-family: Georgia, serif; line-height: 1.6; color: #222; }
-main { max-width: 640px; margin: 3rem auto; padding: 0 1rem; }
-nav a { margin-right: 1rem; }
+body {
+  background-color: #262624;   /* dark grey */
+  color: #faf5f7;              /* warm white */
+  font-family: Georgia, serif;
+  line-height: 1.6;
+  margin: 0;
+}
+
+main {
+  max-width: 640px;
+  margin: 3rem auto;
+  padding: 0 1rem;
+}
+
+a {
+  color: #af85c3;              /* Claude-style orange accent */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+nav a {
+  margin-right: 1rem;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #4a4a47;
+  margin: 2rem 0;
+}
