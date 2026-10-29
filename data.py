@@ -5,12 +5,12 @@ PROFILE = {
 }
 
 GOALS = [
-    "To build helpful tools for all kinds of people",
+    "Build tools for all kinds of people",
     "Play in the NHL",
-    "Figure out consciousness",
-    "Start a fashion & arts incubator",
-    "Find gold",
-    "To do right by the people who believe in me"
+    "Figure out the secrets of consciousness",
+    "Start a fashion incubator",
+    "Find gold by accident",
+    "Have a movie made about me"
 ]
 
 LINKS = [
