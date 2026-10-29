@@ -6,9 +6,9 @@ PROFILE = {
 
 GOALS = [
     "To build helpful tools for all kinds of people",
-    "Play a game in the NHL",
-    "Make society more empathetic",
-    "Create a fashion & arts incubator",
+    "Play in the NHL",
+    "Figure out consciousness",
+    "Start a fashion & arts incubator",
     "Find gold",
     "To do right by the people who believe in me"
 ]
