@@ -1,7 +1,7 @@
 PROFILE = {
     "name": "Samuel Yu",
-    "tagline": "interested in learning as much as I can during my lifetime",
-    "bio": "I am currently working on a home tool that helps people navigate the healthcare system.",
+    "tagline": "**2026-10-11**",
+    "bio": "I am currently working on an application that better connects patients to clinicians.",
 }
 
 GOALS = [
@@ -15,7 +15,8 @@ GOALS = [
 
 LINKS = [
     {"label" : "Github", "url": "https://github.com/samueljyu07-eng"},
-    {"label" : "LinkedIn", "url": "https://www.linkedin.com/in/samuel-yu-153286398/"}
-
-
+    {"label" : "LinkedIn", "url": "https://www.linkedin.com/in/samuel-yu-153286398/"},
+    {"label" : "X", "url": "https://x.com/SamYu95615634"},
+    {"label" : "YouTube", "url": "https://www.youtube.com/@SamYu-h1p"},
+    {"label" : "CareNav", "url": "https://carenavllm.lovable.app/"}
 ]
